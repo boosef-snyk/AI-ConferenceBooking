@@ -38,3 +38,4 @@ public List<Talk> searchTalk(String input) {
     // return the result
     return talks;
 }
+}
